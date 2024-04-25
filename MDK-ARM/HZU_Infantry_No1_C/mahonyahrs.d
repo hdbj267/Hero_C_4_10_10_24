@@ -1,0 +1,10 @@
+hzu_infantry_no1_c\mahonyahrs.o: ..\components\algorithm\MahonyAHRS.c
+hzu_infantry_no1_c\mahonyahrs.o: ..\components\algorithm\MahonyAHRS.h
+hzu_infantry_no1_c\mahonyahrs.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+hzu_infantry_no1_c\mahonyahrs.o: ..\components\algorithm\Include\arm_math.h
+hzu_infantry_no1_c\mahonyahrs.o: ../Drivers/CMSIS/Include/core_cm4.h
+hzu_infantry_no1_c\mahonyahrs.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+hzu_infantry_no1_c\mahonyahrs.o: ../Drivers/CMSIS/Include/cmsis_version.h
+hzu_infantry_no1_c\mahonyahrs.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+hzu_infantry_no1_c\mahonyahrs.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+hzu_infantry_no1_c\mahonyahrs.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
